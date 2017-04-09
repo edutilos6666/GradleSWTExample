@@ -1,4 +1,4 @@
-i have use followings: 
+i have used followings: 
 <ol>
 <li>Eclipse NEON </li> 
 <li>SWT jars for windows 64 </li> 
